@@ -15,6 +15,8 @@ http://balamii.out.airtime.pro:8000/balamii_a
 https://streaming.radio.co/s3699c5e49/listen
 #EXTINF:-1,Radio 80000
 https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-1,Radio Quantica
+https://stream.radioquantica.com:8443/stream
 #EXTINF:-1,kioskradio.com
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
 #EXTINF:-1,Mutant Radio
@@ -39,8 +41,6 @@ https://streams.radio.co/s63f12ebcb/listen
 https://subcast.radioca.st/live
 #EXTINF:-1,Kool London
 http://uk1-pn.mixstream.net:8698/
-#EXTINF:-1,Radio Quantica
-https://stream.radioquantica.com:8443/stream
 #EXTINF:-1,Internet Public Radio
 https://c2.radioboss.fm:18071/stream
 #EXTINF:-1,Dublin Digital Radio
