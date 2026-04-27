@@ -1,85 +1,89 @@
 #EXTM3U
-#EXTINF:-1,NTS Radio 1
+#EXTINF:-1 tvg-name="NTS Radio 1",NTS Radio 1
 http://stream-relay-geo.ntslive.net/stream
-#EXTINF:-1,NTS Radio 2
+#EXTINF:-1 tvg-name="NTS Radio 2",NTS Radio 2
 http://stream-relay-geo.ntslive.net/stream2
-#EXTINF:-1,Noods Radio
+#EXTINF:-1 tvg-name="Noods Radio",Noods Radio
 https://noods-radio.radiocult.fm/stream
-#EXTINF:-1,Palanga Street Radio
+#EXTINF:-1 tvg-name="Palanga Street Radio",Palanga Street Radio
 https://stream.palanga.live:8443/palanga128.mp3
-#EXTINF:-1,Netil Radio
+#EXTINF:-1 tvg-name="Netil Radio",Netil Radio
 https://netilradio.out.airtime.pro/netilradio_a
-#EXTINF:-1,Balamii
+#EXTINF:-1 tvg-name="Balamii",Balamii
 http://balamii.out.airtime.pro:8000/balamii_a
-#EXTINF:-1,refugeworldwide.com
+#EXTINF:-1 tvg-name="refugeworldwide.com",refugeworldwide.com
 https://streaming.radio.co/s3699c5e49/listen
-#EXTINF:-1,Radio 80000
+#EXTINF:-1 tvg-name="Radio 80000",Radio 80000
 https://radio80k.out.airtime.pro/radio80k_a
-#EXTINF:-1,Subcity.org
+#EXTINF:-1 tvg-name="IDA Tallin",IDA Tallin
+https://broadcast.idaidaida.net:8000/stream?t=1777284355028
+#EXTINF:-1 tvg-name="IDA Helsinki",IDA Helsinki
+https://broadcast.idaidaida.net:8030/stream?t=1777284432045
+#EXTINF:-1 tvg-name="Subcity.org",Subcity.org
 https://stream.subcity.org/listen
-#EXTINF:-1,Radio Quantica
+#EXTINF:-1 tvg-name="Radio Quantica",Radio Quantica
 https://stream.radioquantica.com:8443/stream
-#EXTINF:-1,Clyde Built Radio
+#EXTINF:-1 tvg-name="Clyde Built Radio",Clyde Built Radio
 https://clydebuiltradio.out.airtime.pro/clydebuiltradio_b
-#EXTINF:-1,kioskradio.com
+#EXTINF:-1 tvg-name="kioskradio.com",kioskradio.com
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
-#EXTINF:-1,Mutant Radio
+#EXTINF:-1 tvg-name="Mutant Radio",Mutant Radio
 https://listen.radioking.com/radio/282820/stream/328621
-#EXTINF:-1,Margate Radio
+#EXTINF:-1 tvg-name="Margate Radio",Margate Radio
 https://theotherradiostation.out.airtime.pro/theotherradiostation_a
-#EXTINF:-1,theother.radio
+#EXTINF:-1 tvg-name="theother.radio",theother.radio
 https://edge.mixlr.com/channel/ccrck?1682783462996
-#EXTINF:-1,subtleradio.com
+#EXTINF:-1 tvg-name="subtleradio.com",subtleradio.com
 https://subtle.out.airtime.pro/subtle_a?_=1
-#EXTINF:-1,Undergroundbass.uk
+#EXTINF:-1 tvg-name="Undergroundbass.uk",Undergroundbass.uk
 http://65.108.124.70:7200/stream
-#EXTINF:-1,Do!! You!!! Radio
+#EXTINF:-1 tvg-name="Do!! You!!! Radio",Do!! You!!! Radio
 https://doyouworld.out.airtime.pro/doyouworld_a
-#EXTINF:-1,yearzero.com
+#EXTINF:-1 tvg-name="yearzero.com",yearzero.com
 https://radio.yearzero.com/radio/8000/radio.mp3?1590572697
-#EXTINF:-1,radioraheem.it
+#EXTINF:-1 tvg-name="radioraheem.it",radioraheem.it
 https://streams.radio.co/s63f12ebcb/listen
-#EXTINF:-1,Sub FM
+#EXTINF:-1 tvg-name="Sub FM",Sub FM
 https://subcast.radioca.st/live
-#EXTINF:-1,Kool London
+#EXTINF:-1 tvg-name="Kool London",Kool London
 http://uk1-pn.mixstream.net:8698/
-#EXTINF:-1,Internet Public Radio
+#EXTINF:-1 tvg-name="Internet Public Radio",Internet Public Radio
 https://c2.radioboss.fm:18071/stream
-#EXTINF:-1,Dublin Digital Radio
+#EXTINF:-1 tvg-name="Dublin Digital Radio",Dublin Digital Radio
 http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a
-#EXTINF:-1,Resonance Extra
+#EXTINF:-1 tvg-name="Resonance Extra",Resonance Extra
 https://stream.resonance.fm/resonance-extra?=&&___cb=339457713083401
-#EXTINF:-1,Boxout FM
+#EXTINF:-1 tvg-name="Boxout FM",Boxout FM
 http://boxoutfm.out.airtime.pro:8000/boxoutfm_a
-#EXTINF:-1,RADIO ALHARA
+#EXTINF:-1 tvg-name="RADIO ALHARA",RADIO ALHARA
 https://ample-02.radiojar.com/78cxy6wkxtzuv.mp3?1594383341=&rj-tok=AAABcziwS6UALdCoa4Otnr_jHg&rj-ttl=5
-#EXTINF:-1,LYL Radio
+#EXTINF:-1 tvg-name="LYL Radio",LYL Radio
 https://icecast.lyl.live/live
-#EXTINF:-1,Cashmere Radio
+#EXTINF:-1 tvg-name="Cashmere Radio",Cashmere Radio
 http://cashmereradio.out.airtime.pro:8000/cashmereradio_a
-#EXTINF:-1,The Lot Radio
+#EXTINF:-1 tvg-name="The Lot Radio",The Lot Radio
 http://thelot.out.airtime.pro:8000/thelot_b
-#EXTINF:-1,feelthingsradio.com
+#EXTINF:-1 tvg-name="feelthingsradio.com",feelthingsradio.com
 http://streaming.radio.co/sf720d3e90/listen
-#EXTINF:-1,Dublab
+#EXTINF:-1 tvg-name="Dublab",Dublab
 http://dublab.com/streams/dubstream
-#EXTINF:-1,FutureMusic FM
+#EXTINF:-1 tvg-name="FutureMusic FM",FutureMusic FM
 http://stream.futuremusic.fm:8000/mp3
-#EXTINF:-1,BBC Radio 4
+#EXTINF:-1 tvg-name="BBC Radio 4",BBC Radio 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-#EXTINF:-1,Rude FM.com
+#EXTINF:-1 tvg-name="Rude FM.com",Rude FM.com
 http://78.129.228.187:8034/
-#EXTINF:-1,Jungle Train
+#EXTINF:-1 tvg-name="Jungle Train",Jungle Train
 http://stream2.jungletrain.net:8000/
-#EXTINF:-1,nporadio4.nl
+#EXTINF:-1 tvg-name="nporadio4.nl",nporadio4.nl
 https://icecast.omroep.nl/radio4-bb-mp3
-#EXTINF:-1,Melodic Distraction Radio
+#EXTINF:-1 tvg-name="Melodic Distraction Radio",Melodic Distraction Radio
 https://streamer.radio.co/s5e1f4b6b9/listen
-#EXTINF:-1,Resonance FM
+#EXTINF:-1 tvg-name="Resonance FM",Resonance FM
 http://stream.resonance.fm:8000/resonance
-#EXTINF:-1,Worldwide FM
+#EXTINF:-1 tvg-name="Worldwide FM",Worldwide FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
-#EXTINF:-1,KXLU 88.9 FM
+#EXTINF:-1 tvg-name="KXLU 88.9 FM",KXLU 88.9 FM
 http://www.ednixon.com:8120/stream
-#EXTINF:-1,Gloucester FM
+#EXTINF:-1 tvg-name="Gloucester FM",Gloucester FM
 http://icecast.commedia.org.uk:8000/gloucesterfm.mp3
